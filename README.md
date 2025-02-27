@@ -36,7 +36,7 @@ You will not be able to retrieve your secret access key so if you don't have tha
 # START HERE 
 ## **Step 1: Clone The Repo**
 ```bash
-git clone https://github.com/alahl1/SportsDataBackup
+git clone https://github.com/adesegunasunmo/sports-data-backup.git
 cd src
 ```
 
